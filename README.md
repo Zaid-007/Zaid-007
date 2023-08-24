@@ -1,4 +1,4 @@
-## Heyy there 👋, This is Zaid Marouf!
+<h2>Heyy there, I am Zaid Marouf! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 
 <!--
 **Zaid-007/Zaid-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
