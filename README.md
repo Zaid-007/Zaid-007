@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack:
 
-<!--<p>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,js,html,css" /> 
     <img src="https://skillicons.dev/icons?i=bootstrap,py,flask,php,mysql" />
     <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,netlify" />
   </a>
-</p>-->
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,py,flask,php,mysql,git,github,azure,vscode,netlify)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,py,flask,php,mysql,git,github,azure,vscode,netlify)](https://skillicons.dev)-->
 
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
