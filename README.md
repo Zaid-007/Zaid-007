@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-007&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-007" /> </p>
 - 🔭 I’m currently working on Web Development<br>
 - 🌱 I’m currently learning React<br>
 - 💬 Ask me about Software Engineering<br>
