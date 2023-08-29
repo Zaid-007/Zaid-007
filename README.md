@@ -1,4 +1,4 @@
-<h1>Heyy there, I am Zaid Marouf! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1>Heyy there, I am Zaid Marouf! <img src="https://github.com/Zaid-007/Zaid-007/blob/main/gif/Hi.gif" width="35"></h1>
 
 <!--
 **Zaid-007/Zaid-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
