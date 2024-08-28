@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-007&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-007" /> </p>
 - 🔭 I’m currently working on Web Development<br>
-- 🌱 I’m currently learning React<br>
+- 🌱 I’m currently learning Node<br>
 - 💬 Ask me about Software Engineering<br>
 - 📫 How to reach me: zaidmarouf15@gmail.com<br>
 - ⚡ Fun fact: I love Photography
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,html,css" /> 
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css" /> 
     <img src="https://skillicons.dev/icons?i=bootstrap,py,flask,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,vite,babel,vscode,netlify" />
   </a>
 </p>
 
