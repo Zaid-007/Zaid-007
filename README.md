@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css" /> 
-    <img src="https://skillicons.dev/icons?i=bootstrap,py,flask,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=git,github,azure,vite,babel,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,py,flask,php,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=firebase,azure,vite,babel,vscode,netlify" />
   </a>
 </p>
 
